@@ -25,3 +25,6 @@ label {
 button.ui.button{
   margin: 5px;
 }
+.ui.selectable {
+  cursor: pointer;
+}
