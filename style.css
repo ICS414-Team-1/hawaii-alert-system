@@ -1,0 +1,24 @@
+/* Style page for index.html */
+* {
+
+}
+.header {
+  background-color: #4cb3fd;
+  padding: 100px;
+}
+.body-1 {
+  padding: 50px;
+  background-color: #dedcd0;
+}
+h1.ui.header {
+  color: white;
+  font-size: 50px;
+}
+i.icon {
+  font-size: 30px;
+  padding: 20px;
+}
+label {
+  font-weight: bold;
+  font-size: 15px;
+}
