@@ -17,6 +17,7 @@ h1.ui.header {
 i.icon {
   font-size: 30px;
   padding: 10px;
+  color: black;
 }
 label {
   font-weight: bold;
@@ -27,4 +28,19 @@ button.ui.button{
 }
 .ui.selectable {
   cursor: pointer;
+}
+.ico{
+  width:30px;
+  display:block;
+  height:32px;
+  text-decoration:none;
+}
+.ico:before{
+  content: '';
+  background:url('./icon/tsunami.png');
+  background-size: cover;
+  position:absolute;
+  width:40px;
+  height:30px;
+  margin-left: -20px;
 }
