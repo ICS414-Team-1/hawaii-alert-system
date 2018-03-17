@@ -32,3 +32,9 @@ button.ui.button{
 .alert.header {
   background-color: red;
 }
+.ui.button.index-button {
+  margin: 40px;
+  width: 250px;
+  height: 120px;
+  font-size: 25pt;
+}
